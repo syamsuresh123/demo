@@ -385,5 +385,17 @@
 
 let lorem = 20;
  
+let n = 10;  
+let sum = 0;
+let output = "";
+
+for (let i = 1; i <= n; i++) {
+    sum += i;
+    output += i;
+    if (i < n) {
+        output += "+";
+    }
+}
+
 
 
