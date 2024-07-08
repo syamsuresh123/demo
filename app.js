@@ -375,3 +375,15 @@
 
 // console.log(output);
 
+
+
+// git config --global user.email "you@example.com"
+//   git config --global user.name "Your Name"
+
+
+// kdjfkasiufioerlKDEK,JLIEEwdfQYDHIJWNMSNMdbCMNBCMjDHKJsd,DN,MHDJHKJdKdn
+
+let lorem = 20;
+ 
+
+
